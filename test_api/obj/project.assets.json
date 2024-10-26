@@ -433,11 +433,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kellen\\source\\repos\\test_api\\test_api\\test_api.csproj",
+      "projectUniqueName": "C:\\Repos\\Github-Repos\\test-api\\test_api\\test_api.csproj",
       "projectName": "test_api",
-      "projectPath": "C:\\Users\\Kellen\\source\\repos\\test_api\\test_api\\test_api.csproj",
+      "projectPath": "C:\\Repos\\Github-Repos\\test-api\\test_api\\test_api.csproj",
       "packagesPath": "C:\\Users\\Kellen\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kellen\\source\\repos\\test_api\\test_api\\obj\\",
+      "outputPath": "C:\\Repos\\Github-Repos\\test-api\\test_api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Kellen\\AppData\\Roaming\\NuGet\\NuGet.Config",
